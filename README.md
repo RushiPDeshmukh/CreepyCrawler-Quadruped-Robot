@@ -1,5 +1,6 @@
 # CreepyCrawler-Quadruped-Robot
-Building a Quadruped robot to implement control techniques and robot dynamics 
+Quadruped robots have been of interest to the robotics community as they have high maneuverability and they can be designed to be very robust to the environment they are placed in. The use of quadrupeds as service robots is being realized by the community. Understanding the dynamics of a quadruped robot is a complex task as there are many factors that need to be taken into consideration while designing the robot. This project intends to develop an eight degree of freedom (DOF) sprawling-type quadruped robot. Control of high DOF robots can be highly challenging and computationally heavy. This project intends to work on bringing down the complexity of the robot control by decoupling the dynamics of the robot into four separate dynamic systems, i.e one for each leg, allowing us to achieve a decentralized control of the robot. Gazebo simulation of the robot is achieved with a few gait implementations using a decentralized control strategy.
+
 # Creepy_Crawler
 
 * Author: Rushikesh Deshmukh  <rdeshmukh@wpi.edu>
